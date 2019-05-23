@@ -1,0 +1,19 @@
+{
+  "name": "vanke-cordova-camera",
+  "version": "1.0.0",
+  "description": "vanke-cordova-camera",
+  "cordova": {
+    "id": "vanke-cordova-camera",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "vanke",
+  "license": "MIT"
+}
